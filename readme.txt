@@ -1,0 +1,1 @@
+descrierea sample=urilor de sql
