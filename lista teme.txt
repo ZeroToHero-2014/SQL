@@ -1,0 +1,37 @@
+Ziua 1
+
+tema 1: Va rog sa explicati diferenta intre sequence si identity
+
+tema 2: realizati un script t-sql in care
+- sa realizati o baza de date
+- baza de date sa contina o tabela denumita "fisierxml"
+- tabela "fisierxml" contine o coloanele:
+         continut de tip xml
+         nume de tip sir de caractere
+         id - identificator, cheie primara
+- sa inserati mai multe fisiere xml in tabela "fisierxml"
+- returnati toate cartile realizate de autorul "vasile"
+
+
+
+Nota: structura fisierului inserat este urmatoarea
+<root>
+  <carte autor="" editura="">
+    <capitol numar="1"></capitol>
+    <capitol numar="2"></capitol>
+    .
+    .
+    .
+    .
+    .
+    .
+    <capitol numar="n"></capitol>
+    
+  </carte>
+</root>
+
+Ziua 2
+
+
+Ziua 3
+realizati un script care parcurge secvential, folosind cursor, tabela [Person].[ContactType] din baza de date AdventureWorks 
